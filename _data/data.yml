@@ -19,7 +19,7 @@ sidebar:
     github: WilliamTandweUP
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@Tiz_A_Willi'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -69,7 +69,14 @@ experiences:
       time: December 2019 - February 2020
       company: ICT Networks 2009 Ltd, Blantyre, Malawi
       details: |
-        Intern developer assigned to a team tasked with the revamping of the company website.
+        Intern developer assigned to a team tasked with the revamping of the company website. Some of the technologies 
+        involved included
+            - HTML5 and CSS
+            - Javascript
+            - PHP
+            - SQL
+            - Laravel
+            - Composer
 skills:
     title: Skills &amp; Proficiency
 
